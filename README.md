@@ -64,4 +64,4 @@ Performance is evaluated based on:
 
 The model demonstrated consistent improvement in predicting player rankings, as indicated by decreasing loss and error rates over 100 epochs. This suggests the effectiveness of the chosen approach and model configuration. 
 
-Challenges included the time lag in obtaining new NBA season data for immediate testing and transforming the model into a more accessible format. Future plans involve creating a simulation environment and collaborating with software development experts to enhance the model's practical application.
+Challenges included the time lag in obtaining new NBA season data for immediate testing and transforming the model into a more accessible format. 
